@@ -1,0 +1,19 @@
+#header {
+  display: flex;
+  flex-direction: row;
+}
+
+.headerChild {
+  margin-right: 10px;
+}
+
+#row {
+  display: flex;
+  flex-direction: row;
+}
+
+.rowChild {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
